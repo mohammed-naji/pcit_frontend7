@@ -1,0 +1,29 @@
+/* h2 {
+  color: red;
+  font-size: 30px;
+}
+
+#custom {
+  font-size: 20px;
+  color: orange;
+}
+
+.fancy {
+  color: cadetblue;
+  font-size: 55px;
+} */
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+}
+
+p {
+  background-color: lightblue;
+}
+
+.member {
+  background-color: lightgreen;
+  text-align: center;
+}

@@ -1,0 +1,63 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Redaction+70:ital,wght@0,400;0,700;1,400&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Trad:wght@100..400&display=swap'); */
+
+@font-face {
+  font-family: 'IBMPlexSansArabic-Bold';
+  src: url(../fonts/IBMPlexSansArabic-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'IBMPlexSansArabic-Regular';
+  src: url(../fonts/IBMPlexSansArabic-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'IBMPlexSansArabic-Light';
+  src: url(../fonts/IBMPlexSansArabic-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Zeyada-Regular';
+  src: url(../fonts/Zeyada-Regular.ttf);
+}
+
+body {
+  font-size: 18px;
+  /* 1em = 18px */
+  /* font-family: "Redaction 70", sans-serif; */
+  /* font-family: "Playwrite IT Trad", cursive; */
+  font-family: 'Zeyada-Regular';
+}
+
+.ar {
+  font-family: 'IBMPlexSansArabic-Regular';
+}
+
+.box {
+  font-size: 20px;
+  /* 1rem = 20px */
+}
+
+h1 {
+  /* font-size: 12em; */
+  /* font-size: 12rem; */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* Font Stack */
+}
+
+/* font-size, font-family, font-weight, font-style  */
+
+/* line-height, letter-spacing, word-spacing, text-transform, text-decoration, text-align, vertical-align, white-space, color */
+
+/* 1em = 16px (default browser font size) */
+/* 1rem = 16px (default browser font size) */
+
+i,
+span {
+  font-size: 40px;
+}
+
+i:hover,
+span:hover {
+  color: red;
+}

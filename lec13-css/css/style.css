@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.box {
+  background-color: #02918c;
+  color: #fff;
+  padding: 10px;
+  display: none;
+  /* opacity: 0; */
+  /* visibility: hidden; */
+}
+
+h3 {
+  display: inline;
+}
+
+.list {
+  width: 300px;
+  background-color: rgb(250, 203, 203);
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.list a {
+  background-color: #f00;
+  color: #fff;
+  /* display: block; */
+}
+
+.hero img {
+  display: block;
+  /* margin: 0; */
+}
+
+.about {
+  text-align: center;
+  background-color: #f00;
+}
+
+.about h2 {
+  margin: 0;
+}
+
+.about a {
+  background-color: #00f;
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  background-color: #e85;
+  margin: 40px;
+  padding: 30px;
+  display: inline-block;
+}
